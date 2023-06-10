@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
-- 🔭 Talend Integretion - ETL e Integração de Dados
+- 🔭 Hoje trabalho com Talend Integretion - ETL e Integração de Dados
 - 🌱 Atualmente estou estudando Flutter e C#
